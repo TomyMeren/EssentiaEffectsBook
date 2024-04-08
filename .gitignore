@@ -1,1 +1,49 @@
-**/target
+# Scala
+*.class
+*.log
+*.tlog
+*.jar
+*.war
+*.ear
+*.db
+*.dat
+*.idx
+*.tmp
+*.bak
+*.cache
+*.diff
+*.patch
+*.tmp
+*.tmp.*
+*.swp
+*~
+.target/
+.idea/
+dist/
+.cache/
+project/target/
+project/project/
+.metals/
+.metals.bsp/
+.mill/
+
+# sbt
+.sbt/
+.target/
+.project/
+.work/
+.history/
+
+# IntelliJ IDEA
+.idea
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
